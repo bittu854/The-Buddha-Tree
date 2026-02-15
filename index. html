@@ -1,0 +1,34 @@
+index.html<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Buddha Tree — UEP</title>
+<style>
+body{background:#0D0D2B;color:white;font-family:Georgia,serif;text-align:center;padding:20px;}
+h1{color:#FFD700;font-size:28px;margin:20px 0;}
+h2{color:#90EE90;font-size:16px;font-style:italic;margin-bottom:20px;}
+p{color:#ccc;font-size:14px;line-height:1.8;max-width:600px;margin:0 auto 20px;}
+.gold{color:#B8860B;}
+a{display:block;background:#1B4332;color:white;padding:14px;margin:10px auto;max-width:400px;border-radius:8px;text-decoration:none;border:1px solid #B8860B;font-size:13px;}
+.footer{margin-top:40px;color:#888;font-size:11px;}
+</style>
+</head>
+<body>
+<div style="font-size:60px;margin:20px 0;">🌳</div>
+<div style="color:#90EE90;font-size:11px;letter-spacing:3px;">UNIVERSAL EDUCATION PROJECT</div>
+<h1>The Buddha Tree</h1>
+<h2>SKB–UEP Model · Infinite Knowledge Cycle</h2>
+<p>A complete map of human knowledge — from physical reality to pure consciousness — organized into <span class="gold">165 Major Domain Boughs</span> across <span class="gold">5 Foundational Tiers</span>.</p>
+<p style="color:#B8860B;font-style:italic;">"Rooted in Silence, Flowering as Consciousness — Grow From Within" ♾️</p>
+<br>
+<a href="SKB_UEP_Foundation_Document.html.pdf">📄 Foundation Document</a>
+<a href="UEP_OnePager.html.pdf">🌿 UEP One-Pager</a>
+<a href="Cosmic_Union_Beauty_FULL.html.pdf">✨ Cosmic Union Beauty</a>
+<div class="footer">
+Bittu Kumar · Founder, Universal Education Project<br>
+github.com/bittu854/The-Buddha-Tree<br>
+🌳 Grow From Within
+</div>
+</body>
+</html>
